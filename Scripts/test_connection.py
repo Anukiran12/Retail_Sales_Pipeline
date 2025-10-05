@@ -3,8 +3,8 @@ import mysql.connector # type: ignore
 # MySQL connection configuration
 DB_CONFIG = {
     'host': 'localhost',
-    'user': 'etl_user',       # or 'root' if you didn't create etl_user
-    'password': 'StrongPassword123#',  # use your password
+    'user': 'etl_user',       
+    'password': 'StrongPassword123#', 
     'database': 'retail_db'
 }
 
