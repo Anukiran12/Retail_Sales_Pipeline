@@ -1,0 +1,51 @@
+Date,Store_ID,Product_ID,Product_Name,Category,Quantity_Sold,Unit_Price
+2025-09-02,2,104,Nike Sneakers,Footwear,2,89.99
+2025-09-18,2,101,Apple iPhone 14,Electronics,8,799.99
+2025-09-14,2,101,Apple iPhone 14,Electronics,3,799.99
+2025-09-02,2,110,Logitech Mouse,Electronics,9,49.99
+2025-09-05,2,101,Apple iPhone 14,Electronics,4,799.99
+2025-09-21,2,105,Instant Pot,Home Appliances,7,99.99
+2025-09-08,2,101,Apple iPhone 14,Electronics,2,799.99
+2025-09-25,2,110,Logitech Mouse,Electronics,5,49.99
+2025-09-10,2,109,Adidas T-Shirt,Apparel,10,29.99
+2025-09-29,2,109,Adidas T-Shirt,Apparel,4,29.99
+2025-09-10,2,103,Levi's Jeans,Apparel,9,49.99
+2025-09-01,2,104,Nike Sneakers,Footwear,1,89.99
+2025-09-20,2,102,Samsung Galaxy S23,Electronics,5,699.99
+2025-10-01,2,110,Logitech Mouse,Electronics,6,49.99
+2025-09-05,2,110,Logitech Mouse,Electronics,5,49.99
+2025-09-19,2,105,Instant Pot,Home Appliances,2,99.99
+2025-09-27,2,106,Coffee Maker,Home Appliances,8,39.99
+2025-09-27,2,109,Adidas T-Shirt,Apparel,3,29.99
+2025-09-14,2,103,Levi's Jeans,Apparel,3,49.99
+2025-09-19,2,109,Adidas T-Shirt,Apparel,7,29.99
+2025-09-04,2,102,Samsung Galaxy S23,Electronics,4,699.99
+2025-09-15,2,103,Levi's Jeans,Apparel,6,49.99
+2025-09-06,2,102,Samsung Galaxy S23,Electronics,2,699.99
+2025-09-03,2,104,Nike Sneakers,Footwear,8,89.99
+2025-09-07,2,109,Adidas T-Shirt,Apparel,10,29.99
+2025-09-21,2,108,Blender,Home Appliances,6,59.99
+2025-09-27,2,108,Blender,Home Appliances,10,59.99
+2025-09-25,2,103,Levi's Jeans,Apparel,7,49.99
+2025-09-02,2,107,Sony Headphones,Electronics,1,129.99
+2025-09-02,2,104,Nike Sneakers,Footwear,5,89.99
+2025-09-15,2,104,Nike Sneakers,Footwear,1,89.99
+2025-09-02,2,102,Samsung Galaxy S23,Electronics,4,699.99
+2025-09-27,2,107,Sony Headphones,Electronics,5,129.99
+2025-09-21,2,108,Blender,Home Appliances,1,59.99
+2025-09-26,2,108,Blender,Home Appliances,2,59.99
+2025-09-03,2,103,Levi's Jeans,Apparel,10,49.99
+2025-09-06,2,103,Levi's Jeans,Apparel,5,49.99
+2025-09-23,2,106,Coffee Maker,Home Appliances,3,39.99
+2025-09-19,2,103,Levi's Jeans,Apparel,9,49.99
+2025-09-01,2,104,Nike Sneakers,Footwear,8,89.99
+2025-09-03,2,107,Sony Headphones,Electronics,3,129.99
+2025-09-30,2,108,Blender,Home Appliances,7,59.99
+2025-09-19,2,109,Adidas T-Shirt,Apparel,8,29.99
+2025-09-30,2,102,Samsung Galaxy S23,Electronics,5,699.99
+2025-09-18,2,110,Logitech Mouse,Electronics,2,49.99
+2025-09-23,2,106,Coffee Maker,Home Appliances,6,39.99
+2025-09-17,2,107,Sony Headphones,Electronics,6,129.99
+2025-09-01,2,106,Coffee Maker,Home Appliances,1,39.99
+2025-09-07,2,106,Coffee Maker,Home Appliances,10,39.99
+2025-09-16,2,109,Adidas T-Shirt,Apparel,7,29.99
